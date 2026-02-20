@@ -1,0 +1,43 @@
+#14Python: Экранированные последовательности
+print("""- Did Joffrey agree?
+- He did. He also said "I love using \\n".""")
+#15
+print("Winter came for the House of Frey.")
+#16
+print(chr(126))
+print(chr(94))
+print(chr(37))
+#17
+motto='What Is Dead May Never Die!'
+print(motto)
+#18
+name = "Brienna"
+name="anneirB"
+# BEGIN (write your solution here)
+
+# END
+
+print(name)
+#19
+brother=2
+print(brother)
+#20
+euros_count = 100
+d = euros_count * 1.25
+print(d)
+u = d * 6.91
+print(u)
+# 21 Переменные и конкатенация
+info = "We couldn't verify your mother's maiden name."
+intro = "Here is important information about your account security."
+first_name = "Joffrey"
+greeting = "Hello"
+print(greeting + ', ' + first_name +'!' + '\n' + intro + '\n' + info)
+# 22 Именование переменных
+x_1 = 20
+x_2 = -100
+print(x_1 * x_2)
+# 23 Магические числа
+
+# 24 Константы
+DRAGONS_BORN_COUNT = 3
